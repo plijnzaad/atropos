@@ -1,6 +1,12 @@
 # Changes
 
-## 2.0.0-alpha.6 (development)
+## 2.0.0-alpha.7 (development)
+
+* Update adapters file link
+* Package adapters file with wheel (#116)
+* Fix #112 - type error (thanks to @plijnzaad)
+
+## 2.0.0-alpha.6 (2020.07.05)
 
 * Fix #101 - don't write extra header lines for each batch
 * Fix #102 - errors with serializing report to JSON/YAML
